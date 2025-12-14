@@ -1,10 +1,10 @@
-# Neovim Keymaps Cheat Sheet
+# Neovim Keymaps
 
 **Leader Key:** `Space`
 
 ---
 
-## 🚀 Dashboard (Startup Screen)
+## Dashboard (Startup Screen)
 
 When you open Neovim without a file, you'll see the dashboard:
 
@@ -19,7 +19,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 📁 File Explorer (nvim-tree)
+## File Explorer (nvim-tree)
 
 ### Toggle & Navigation
 | Keymap | Action |
@@ -55,7 +55,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 🔍 Fuzzy Finder (Telescope)
+## Fuzzy Finder (Telescope)
 
 ### Main Commands
 | Keymap | Action |
@@ -75,7 +75,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 💻 Terminal (ToggleTerm)
+## Terminal (ToggleTerm)
 
 ### Opening Terminals
 | Keymap | Action |
@@ -113,7 +113,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 📝 Basic Vim Motions
+## Basic Vim Motions
 
 ### Movement
 | Keymap | Action |
@@ -192,7 +192,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 💻 LSP (Code Intelligence)
+## LSP (Code Intelligence)
 
 ### Navigation
 | Keymap | Action |
@@ -220,7 +220,7 @@ When you open Neovim without a file, you'll see the dashboard:
 
 ---
 
-## 🎯 Autocompletion (nvim-cmp)
+## Autocompletion (nvim-cmp)
 
 Inside insert mode when completion menu appears:
 
@@ -236,7 +236,7 @@ Inside insert mode when completion menu appears:
 
 ---
 
-## 📑 Tabs & Buffers
+## Tabs & Buffers
 
 ### Tabs
 | Keymap | Action |
@@ -261,7 +261,7 @@ Inside insert mode when completion menu appears:
 
 ---
 
-## 🪟 Window Management
+## Window Management
 
 ### Navigation
 | Keymap | Action |
@@ -303,7 +303,7 @@ Inside insert mode when completion menu appears:
 
 ---
 
-## 💬 Comments
+## Comments
 
 | Keymap | Action | Mode |
 |--------|--------|------|
@@ -321,7 +321,7 @@ Examples:
 
 ---
 
-## 🎨 Git (Gitsigns & Fugitive)
+## Git (Gitsigns & Fugitive)
 
 ### Gitsigns (In Buffer)
 | Keymap | Action |
@@ -350,7 +350,7 @@ Examples:
 
 ---
 
-## 🔧 File Operations
+## File Operations
 
 ### Basic Commands
 | Command | Action |
@@ -375,7 +375,7 @@ Examples:
 
 ---
 
-## 🎯 Copy, Cut, Paste
+## Copy, Cut, Paste
 
 ### System Clipboard (Works with OS Clipboard)
 | Keymap | Action |
@@ -405,7 +405,7 @@ Examples:
 
 ---
 
-## 🔤 Text Objects
+## Text Objects
 
 Use with operators like `d` (delete), `c` (change), `y` (yank), `v` (visual):
 
@@ -445,7 +445,7 @@ Use with operators like `d` (delete), `c` (change), `y` (yank), `v` (visual):
 
 ---
 
-## 🚀 Auto-pairs
+## Auto-pairs
 
 Automatically closes brackets, quotes, etc:
 
@@ -462,7 +462,7 @@ Press the closing character to skip over it instead of inserting another.
 
 ---
 
-## 🛠️ Utility Commands
+## Utility Commands
 
 ### Mason (LSP/Tools Manager)
 | Command | Action |
@@ -493,7 +493,7 @@ Press the closing character to skip over it instead of inserting another.
 
 ---
 
-## 💡 Pro Tips & Advanced Features
+## Pro Tips & Advanced Features
 
 ### Multiple Cursors (Visual Block)
 1. `Ctrl-v` - Enter visual block mode
@@ -591,7 +591,7 @@ Press the closing character to skip over it instead of inserting another.
 
 ---
 
-## 🎓 Quick Reference Card
+## Quick Reference Card
 
 ```
 Essential Shortcuts:
@@ -639,7 +639,7 @@ LSP:
 
 ---
 
-## 📍 Save This File
+## Save This File
 
 Save as: `~/.config/nvim/KEYMAPS.md`
 
