@@ -383,6 +383,7 @@ SOFTWARE.
 
 This configuration is built on the shoulders of giants. Special thanks to:
 
+- ** READme written by Claude
 - **[Neovim](https://neovim.io/)** - The hyperextensible Vim-based text editor
 - **[Lazy.nvim](https://github.com/folke/lazy.nvim)** - Modern plugin manager by folke
 - **[Mason.nvim](https://github.com/williamboman/mason.nvim)** - Portable package manager
